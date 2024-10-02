@@ -9,8 +9,8 @@ import pandas as pd
 from amadeus import Client, ResponseError
 
 '''
-key = 'Rn1PiL5VmnsTsj2glfvLBgmRgmgl9lnP'
-secret = 'iUpqGrVZ3NPk52Rt'
+key = ***********************
+secret = ****************
 
 amadeus = Client(
     client_id=key,
